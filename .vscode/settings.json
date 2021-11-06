@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "driverlib.h": "c",
-        "stdint.h": "c"
+        "stdint.h": "c",
+        "key.h": "c"
     }
 }

@@ -9,7 +9,8 @@
                 "D:\\Keil_C51\\ARM\\ARMCC\\include\\rw",
                 "e:\\TI_MSP\\simplelink_msp432p4_sdk_3_40_01_02\\examples\\nortos\\MSP_EXP432P401R\\driverlib\\adc14_single_conversion_repeat_timera_source",
                 "e:\\TI_MSP\\simplelink_msp432p4_sdk_3_40_01_02\\examples\\nortos\\MSP_EXP432P401R\\driverlib\\adc14_single_conversion_repeat_timera_source\\keil",
-                "e:\\TI_MSP\\simplelink_msp432p4_sdk_3_40_01_02\\source\\ti\\devices\\msp432p4xx\\driverlib\\keil"
+                "e:\\TI_MSP\\simplelink_msp432p4_sdk_3_40_01_02\\source\\ti\\devices\\msp432p4xx\\driverlib\\keil",
+                "${workspaceFolder}/header"
             ],
             "defines": [
                 "__MSP432P401R__",
