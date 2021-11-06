@@ -5,15 +5,17 @@
             "includePath": [
                 "e:\\TI_MSP\\simplelink_msp432p4_sdk_3_40_01_02\\source",
                 "e:\\TI_MSP\\simplelink_msp432p4_sdk_3_40_01_02\\source\\third_party\\CMSIS\\Include\\",
+                "e:\\TI_MSP\\simplelink_msp432p4_sdk_3_40_01_02\\examples\\nortos\\MSP_EXP432P401R\\driverlib\\adc14_single_conversion_repeat_timera_source\\keil\\header",
                 "D:\\Keil_C51\\ARM\\ARMCC\\include",
                 "D:\\Keil_C51\\ARM\\ARMCC\\include\\rw",
                 "e:\\TI_MSP\\simplelink_msp432p4_sdk_3_40_01_02\\examples\\nortos\\MSP_EXP432P401R\\driverlib\\adc14_single_conversion_repeat_timera_source",
                 "e:\\TI_MSP\\simplelink_msp432p4_sdk_3_40_01_02\\examples\\nortos\\MSP_EXP432P401R\\driverlib\\adc14_single_conversion_repeat_timera_source\\keil",
                 "e:\\TI_MSP\\simplelink_msp432p4_sdk_3_40_01_02\\source\\ti\\devices\\msp432p4xx\\driverlib\\keil",
-                "${workspaceFolder}/header"
+                "e:\\TI_MSP\\simplelink_msp432p4_sdk_3_40_01_02\\examples\\nortos\\MSP_EXP432P401R\\driverlib\\adc14_single_conversion_repeat_timera_source\\keil\\user"
             ],
             "defines": [
                 "__MSP432P401R__",
+                "ARM_MATH_CM4",
                 "__CC_ARM",
                 "__arm__",
                 "__align(x)=",
